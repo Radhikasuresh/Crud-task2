@@ -16,6 +16,7 @@ import BlankPage from './components/AddonPages/BlankPages';
 import Charts from './components/ChartsPage/Charts';
 import Tables from './components/TablesPage/Tables';
 
+
 function App() {
   const [open, setOpen] = useState(false);
   const [open1, setOpen1] = useState(false);
